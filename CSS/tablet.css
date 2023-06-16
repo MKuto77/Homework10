@@ -1,0 +1,54 @@
+@media(max-width: 1024px){
+    /* section1 */
+    .section_headline{
+        font-size: 40px;
+    }
+    .section_paragraph{
+        width: 85%
+    }
+    .button_paragraph{
+        flex-direction: column;
+        row-gap: 16px;
+    }
+    .txt1{
+        width: 100%;
+        /* section1 */
+    }
+    /* section2 */
+    .section2{
+        flex-direction: column;
+        row-gap: 40px;
+    }
+    .sec1_div{
+        align-items: center;
+    }
+    .section1_paragraph{
+        text-align: center;
+        width: 100%
+    }
+    /* section2 */
+    /* section3 */
+    .sec3_main{
+        flex-direction: column;
+        align-items: center;
+        row-gap: 30px;
+    }
+    .first_one{
+        margin-bottom: 22px;
+    }
+    .sec3_txt{
+        text-align: center;
+    }
+    .sec3_headline{
+        align-items: center;
+    }
+    .headline{
+        width: 100%;
+        justify-content: center;
+        display: flex;
+    }
+    .sec3_headline{
+        width: 100%;
+        text-align: center;
+    }
+}
